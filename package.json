@@ -1,7 +1,6 @@
 {
   "name": "hello-next",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +13,16 @@
   "license": "ISC",
   "dependencies": {
     "next": "^7.0.2",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
-  }
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fede90/next.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fede90/next/issues"
+  },
+  "homepage": "https://github.com/fede90/next#readme",
+  "description": ""
 }
